@@ -1,2 +1,4 @@
 # AdventOfCode
-Contains year 2023
+NO INPUTS PROVIDED.
+
+Contains every problem from 2023....
